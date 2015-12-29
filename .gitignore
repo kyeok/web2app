@@ -1,0 +1,8 @@
+/node_modules
+/backup
+/dependency
+.project
+.idea/
+*.iml
+.DS_Store
+/bower_components
